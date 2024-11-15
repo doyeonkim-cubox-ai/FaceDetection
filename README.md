@@ -14,7 +14,7 @@ After cloning the repo, run this line below:
 pip install -r requirements.txt
 ```
 
-##### 1. Usage
+### Usage
 ```
 # wandb setting
 wandb login <API key>
@@ -24,12 +24,15 @@ yolo settings wandb=True
 python -m FaceDetection.model
 ```
 
-##### 2. statistics
+### Statistics
 (TBD)
 
-##### 3. plots
+##### 1. train info
 (TBD)
 
-##### 4. inference result
+##### 2. plots
+(TBD)
+
+##### 3. inference result
 (TBD)
 
