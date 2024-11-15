@@ -1,0 +1,20 @@
+# FaceDetection
+# ├── FaceDetection
+# ├── Face.yaml
+# └── datasets
+#     └── images
+#         └── train
+#         └── val
+#     └── labels
+#         └── train
+#         └── val
+
+path: ../datasets
+train: # train images (relative to 'path')  16551 images
+  - images/train
+val: # val images (relative to 'path')  4952 images
+  - images/val
+
+# Classes
+names:
+  0: face

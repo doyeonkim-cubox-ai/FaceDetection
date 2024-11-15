@@ -1,0 +1,7 @@
+.idea
+.gitmessage.txt
+**/__pycache__
+model
+**/wandb
+logs/
+datasets
