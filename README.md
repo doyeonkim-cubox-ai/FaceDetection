@@ -26,18 +26,15 @@ python -m FaceDetection.model
 
 ### Statistics
 
-##### 1. train info
+##### 1. train summary
 
 |  class  | Images | Instances | Box(P) | Box(R) | Box(mAP50) | Box(mAP50-95) | 
 |---------|--------|-----------|--------|--------|------------|---------------|
 |  All    | 3347   | 10299     | 0.891  | 0.798  | 0.869      | 0.578         |
 
 - optimizer: Adam(lr=0.01, momentum=0.937)
-
 - total epochs: 100
-
 - params: 2.5M
-
 - GFLOPs: 6.3
 
 
