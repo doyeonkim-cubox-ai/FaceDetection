@@ -25,14 +25,22 @@ python -m FaceDetection.model
 ```
 
 ### Statistics
-(TBD)
 
 ##### 1. train info
-(TBD)
+
+optimizer: Adam(lr=0.01, momentum=0.937)
+total epochs: 100
+params: 2.5M
+GFLOPs: 6.3
 
 ##### 2. plots
-(TBD)
+
+<img src="./result/plots.png" width="600" height="300">
+
+<img src="./result/PR_curve.png" width="450" height="300">
+<img src="./result/confusion_matrix_normalized.png" width="450" height="300">
 
 ##### 3. inference result
-(TBD)
+
+<img src="./result/output.png" width="810" height="1080">
 
