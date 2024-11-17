@@ -42,8 +42,8 @@ python -m FaceDetection.model
 
 <img src="./result/plots.png" width="600" height="300">
 
-<img src="./result/PR_curve.png" width="450" height="300">
-<img src="./result/confusion_matrix_normalized.png" width="450" height="300">
+<img src="./result/PR_curve.png" width="300" height="200">
+<img src="./result/confusion_matrix_normalized.png" width="300" height="200">
 
 ##### 3. inference result
 
