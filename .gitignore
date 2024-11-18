@@ -5,3 +5,4 @@ model
 **/wandb
 logs/
 datasets
+check.ipynb
