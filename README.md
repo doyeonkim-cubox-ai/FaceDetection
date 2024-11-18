@@ -22,6 +22,9 @@ yolo settings wandb=True
 
 # train
 python -m FaceDetection.model
+
+# inference
+python -m FaceDetection.inference
 ```
 
 ### Statistics
