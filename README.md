@@ -21,7 +21,7 @@ wandb login <API key>
 yolo settings wandb=True
 
 # train
-python -m FaceDetection.model
+python -m FaceDetection.train
 
 # inference
 python -m FaceDetection.inference
